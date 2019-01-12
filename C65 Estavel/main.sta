@@ -1,0 +1,61 @@
+
+ROM used: 603 (7%)
+          603 (7%) including unused fragments
+
+          1 Average locations per line
+          3 Average locations per statement
+
+RAM used: 24 (7%) at main() level
+          54 (15%) worst case
+
+Stack used: 4 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   66    32  13  main.c
+  266     0   0  C:\Arquivos de programas\PICC\devices\16F876.h
+  236    86  36  lcd_C65_C_3_funciona.c
+  409   121  51  C:\Arquivos de programas\PICC\drivers\string.h
+   32     0   0  C:\Arquivos de programas\PICC\drivers\stddef.h
+   28     0   0  C:\Arquivos de programas\PICC\drivers\ctype.h
+----- -----
+ 1037   239 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     21   3   1             @delay_ms1
+0     20   3   1   117  1.8  lcddata
+0     20   3   1   117  1.8  lcdcommand
+0      9   1   1    29  1.3  write_lcd
+0     23   4   2   158  2.0  lcdcommand16
+0    103  17   0   746  1.9  initlcd
+0     56   9   3   419  4.3  lcdfill
+0     42   7   3   339  2.1  drawpixel
+ Inline        9   437  4.0  setFillArea
+0     76  13   7   515  8.1  putChar
+0     15   2   0    82  2.8  TIMER0_isr
+0    171  28   2  1246  4.9  MAIN
+
+Program metrics:
+    Functions               11
+    Statements              239
+    Comments                292
+    Volume (V)              6481
+    Difficilty (D)          35.1
+    Effort to implement (E) 227569
+    Time to implement (T)   3 hours, 31 minutes
+    Est Delivered Bugs (B)  1
+    Cyclomatic Complexity   10
+    Maintainability (MI)    137
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-0002E    43  0  
+0002F-007FF   556  1445  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+

@@ -1,0 +1,23 @@
+*** Error 18 "lcd_C65_C_1.c" Line 21(10,22): File can not be opened
+    Not in project "D:\SkyDrive\Eletronica\PROJETOS PIC CCS\LCD SIEMENS C65 130X130\config.h"
+    Not in "C:\Program Files (x86)\PICC\devices\config.h"
+    Not in "C:\Program Files (x86)\PICC\drivers\config.h"
+*** Error 18 "lcd_C65_C_1.c" Line 22(10,19): File can not be opened
+    Not in project "D:\SkyDrive\Eletronica\PROJETOS PIC CCS\LCD SIEMENS C65 130X130\cpu.h"
+    Not in "C:\Program Files (x86)\PICC\devices\cpu.h"
+    Not in "C:\Program Files (x86)\PICC\drivers\cpu.h"
+*** Error 18 "lcd_C65_C_1.c" Line 23(10,19): File can not be opened
+    Not in project "D:\SkyDrive\Eletronica\PROJETOS PIC CCS\LCD SIEMENS C65 130X130\lcd.h"
+    Not in "C:\Program Files (x86)\PICC\devices\lcd.h"
+    Not in "C:\Program Files (x86)\PICC\drivers\lcd.h"
+*** Error 18 "lcd_C65_C_1.c" Line 24(10,22): File can not be opened
+    Not in project "D:\SkyDrive\Eletronica\PROJETOS PIC CCS\LCD SIEMENS C65 130X130\kernel.h"
+    Not in "C:\Program Files (x86)\PICC\devices\kernel.h"
+    Not in "C:\Program Files (x86)\PICC\drivers\kernel.h"
+*** Error 18 "lcd_C65_C_1.c" Line 25(10,22): File can not be opened
+    Not in project "D:\SkyDrive\Eletronica\PROJETOS PIC CCS\LCD SIEMENS C65 130X130\system.h"
+    Not in "C:\Program Files (x86)\PICC\devices\system.h"
+    Not in "C:\Program Files (x86)\PICC\drivers\system.h"
+*** Error 128 "lcd_C65_C_1.c" Line 28(1,13): A #DEVICE required before this line
+*** "lcd_C65_C_1.c" Line 28: Error #36: Expecting a ; or ,
+      7 Errors,  0 Warnings.

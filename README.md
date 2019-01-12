@@ -1,2 +1,2 @@
 # siemensC65
-c65 Driver LCD for PIC
+Utilização do Driver em linguagem C para PIC com o LCD do Siemens C65 130x130 Color.

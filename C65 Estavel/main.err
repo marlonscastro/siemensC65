@@ -1,0 +1,5 @@
+>>> Warning 202 "D:\SkyDrive\Eletronica\PROJETOS PIC CCS\LCD SIEMENS C65 130X130\C65 3\c65_S6B33B2.c" Line 59(12,20): Variable never used:   font8x12
+>>> Warning 202 "D:\SkyDrive\Eletronica\PROJETOS PIC CCS\LCD SIEMENS C65 130X130\C65 3\c65_S6B33B2.c" Line 163(12,19): Variable never used:   font8x8
+>>> Warning 202 "main.c" Line 27(8,9): Variable never used:   i
+      Memory usage:   ROM=19%      RAM=16% - 24%
+      0 Errors,  3 Warnings.
